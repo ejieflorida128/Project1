@@ -10,7 +10,7 @@
     }
     
        body{
-         background:url('images/log_bg.jpg');
+         background:url('log_bg.jpg');
          background-repeat: no-repeat;
          background-attachment: fixed;
          background-size: cover;
