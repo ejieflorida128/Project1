@@ -8,7 +8,7 @@
       color: white;
     }
         body{
-          background: url('images/log_bg.jpg');
+          background: url('log_bg.jpg');
           background-attachment: fixed;
           background-repeat: no-repeat;
           background-position: center;
@@ -244,9 +244,9 @@
 
        <div class = "border">
          
-         <img src = "images/pink.jpg" id = "pink">
+         <img src = "pink.jpg" id = "pink">
          
-         <img src = "images/blue.jpg" id = "blue">
+         <img src = "blue.jpg" id = "blue">
          
            <form action = "index.php" method = "post">
              
@@ -285,7 +285,7 @@
                 
                 <div class = "signups">
                    <div class = "facebook">
-                                        <img src = "images/facebook.jpg" id = "facebook">
+                                        <img src = "facebook.jpg" id = "facebook">
                    
                    <a href = "https://www.facebook.com/?stype=lo&jlou=AffEWOCjbXiyKJTgUWpER_jy-gRfr9y7VZg704YZswqZSbTCu6UDFNZfX8BkULEtOLqx2fichpYXr1yLvtKnShynAAa0QkX9s8dzy6v0hi2nfg&smuh=44364&lh=Ac98KXPWv1ReFdIYCKM"  id = "word1">
                      facebook
@@ -294,7 +294,7 @@
                    </div>
                    
                    <div class = "google">
-                       <img src = "images/google.jpg" id = "google">
+                       <img src = "google.jpg" id = "google">
                        
                        <a href = "https://mail.google.com/mail/mu/mp/900/#tl/priority/%5Esmartlabel_personal" id = "word2">
                          Google
